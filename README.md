@@ -1,25 +1,12 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # The-Curated-Shelf-API
+
+## Architecture:
+
+The app will follow a client-server architecture, with a frontend client communicating with a backend server over HTTP(S).
+
+## Features
+
+- User Accounts: Support user registration, authentication.
+- Book Browsing and Search: Allow users to browse and search for books by title, author, genre, or other criteria.
+- Book Details: Provide detailed information about each book, including title, author, description, cover image, and availability status.
+- Lending/Borrowing Management: Implement a system for users to borrow and return books, with due dates and overdue notifications.
